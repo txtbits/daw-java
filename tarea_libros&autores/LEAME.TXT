@@ -1,0 +1,25 @@
+
+Tarea consistente en tres clases, Autor, Libro y TestAutor, para el tratamiento de libros y sus respectivos autores.
+
+Christian Forcada y Raúl Gracia
+=====================================================================================================================
+
+Clase Autor
+-----------
+- Declaramos los atributos nombre, email y genero (atributos privados).
+- Generamos sus respectivos getters y el setter del email (métodos públicos).
+- Generamos el constructor de la clase Autor (método público).
+- En el método toString devolvemos el nombre y el email del autor (método público).
+
+Clase Libro
+-----------
+- Declaramos los atributos, nombre, autor (de la clase Autor), precio y cantidad (atributos privados).
+- Generamos su respectivos getters y setters del precio y de la cantidad (métodos públicos).
+- Generamos el constructor de la clase Libro (método público).
+- En el método toString devolvemos el nombre del libro, con el nombre y email del autor, su precio y cantidad (método público).
+
+Clase TestAutor
+---------------
+- Declaramos las variables de 3 autores y 5 libros diferentes.
+- Llamamos a los constructores de los libros y autores.
+- Mostramos por pantalla los resultados.

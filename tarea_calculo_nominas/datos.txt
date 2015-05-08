@@ -1,0 +1,5 @@
+Ramón     140 21
+Eulogio   160  8
+Francisco 100 15
+Víctor    200  7
+Ana        80 40
