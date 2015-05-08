@@ -1,2 +1,2 @@
 # daw-java
-Tareas de Java en FPGS Desarrollo de Aplicaciones Web
+Tareas de introducción a Java en 1º curso de FPGS Desarrollo de Aplicaciones Web (Primavera 2012)
